@@ -1,3 +1,7 @@
+## What is this
+
+scry injects the script of your choice, by default rr-web and a.js into unencrypted webtraffic via proxy
+
 ## Building 
 `go build`
 
