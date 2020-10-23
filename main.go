@@ -52,7 +52,7 @@ analytics.identify();
 		} if (event.data.type == 2) {
 		  eventName = "Mouse Clicked Up"
 
-		} Z
+		} 
 	}
 	  if (event.data.source == 1){
 		eventName = "Mouse Movement"
